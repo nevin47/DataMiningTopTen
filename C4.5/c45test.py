@@ -1,6 +1,6 @@
 import unittest
+import json
 from c45 import *
-
 
 class TestC45(unittest.TestCase):
 
