@@ -24,10 +24,10 @@ def KmeansCluster(FileName = "",Num = 3):
 
 ##Demo
 CO = [0,0]
-for op in range(9):
+for op in range(7):
     if(op!=0 and op!=1):
         print "OP = ",op,'\n'
-        FileName = "/Users/nevin47/Desktop/项目/学术/TopTen_Python/DataMiningTopTen/KMeans/Table/FINAL.csv"
+        FileName = "/Users/nevin47/Desktop/项目/学术/TopTen_Python/DataMiningTopTen/KMeans/Table/PY.csv"
         Center,Out = KmeansCluster(FileName,op)
         # print Out
 
@@ -49,6 +49,6 @@ print CO
 
 #Draw Pic
 y = array(CO)
-xlim(2,7)
+xlim(2,5)
 plot(y)
 show()
