@@ -1,0 +1,14 @@
+sunny	hot	high	FALSE	Na
+sunny	hot	high	TRUE	Na
+overcast	hot	high	FALSE	Po
+rain	mild	high	FALSE	Po
+rain	cool	normal	FALSE	Po
+rain	cool	normal	TRUE	Na
+overcast	cool	normal	TRUE	Po
+sunny	mild	high	FALSE	Na
+sunny	cool	normal	FALSE	Po
+rain	mild	normal	FALSE	Po
+sunny	mild	normal	TRUE	Po
+overcast	mild	high	TRUE	Po
+overcast	hot	normal	FALSE	Po
+rain	mild	high	TRUE	Na

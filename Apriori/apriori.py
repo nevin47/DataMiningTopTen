@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# coding: utf-8
 """
 Description     : Simple Python implementation of the Apriori Algorithm
 
